@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/51975039-8c3f-43be-9947-81b9248565fa
 <h1 align="center">🎨 Jigglypuff 3D Model using Hierarchical Modelling</h1>
 <h3 align="center">SECV2213 – Fundamentals of Computer Graphics<br>Semester 2, 2023/2024</h3>
 
